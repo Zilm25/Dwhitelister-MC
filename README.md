@@ -1,10 +1,8 @@
-# Minecraft PvP Plugin
+# Minecraft Discord Whitelist Plugin
 
 [![License](https://img.shields.io/github/license/josantonius/minecraft-whitelist)](LICENSE)
 
 A basic whitelist plugin based on player nicknames only.
-
-## [Watch demo on YouTube](https://www.youtube.com/watch?v=LRzij_6m5wE)
 
 ## Requirements
 
@@ -112,22 +110,22 @@ You can change the messages to your liking.
 ## Changelog
 
 Detailed changes for each release are documented in the
-[release notes](https://github.com/josantonius/minecraft-whitelist/releases).
+[release notes](https://github.com/Zilm25).
 
 ## Contribution
 
 Please make sure to read the [Contributing Guide](.github/CONTRIBUTING.md), before making a pull
 request, start a discussion or report a issue.
 
-Thanks to all [contributors](https://github.com/josantonius/minecraft-whitelist/graphs/contributors)! :heart:
+Thanks to all [contributors](https://github.com/Zilm25)! :heart:
 
 ## Sponsor
 
 If this project helps you to reduce your development time,
-[you can sponsor me](https://github.com/josantonius#sponsor) to support my open source work :blush:
+[you can sponsor me](https://github.com/Zilm25) to support my open source work :blush:
 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
 
-Copyright © 2023-present, [Josantonius](https://github.com/josantonius#contact)
+Copyright © 2023-present, [Zilm](https://github.com/Zilm25)
